@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-try this
+I am a researcher in quantum information and quantum optics. I am interested in how to exploit the quantum properties of light to transmit and process information. My work is in particular focused on so-called continuous-variable systems () more details on the Research page). 
+I obtained my PhD from the École Normale Supérieure of Paris and Paris Sciences lettres, working at Laboratoire Kastler Brossel. Later I have then been a postdoc at LIP6, Paris. Since September 2020, I work at Freie Universität Berlin as Humboldt postdoctoral fellow.
 
 A data-driven personal website
 ======
