@@ -6,9 +6,12 @@ author_profile: true
 redirect_from:
   - /talks
 ---
-
+* 11/2019 Poster presentation  
+ GDR Quantum Information 2019, 10th colloquium of the CNRS research network on Quantum information, foundations and applications, Télécom ParisTech, Paris, France   
+ _Random coding for sharing bosonic quantum secrets_
+ 
 * 08/2019 Contributed talk  
- Conference on quantum information and quantunm control (CQIQC VIII)), Fields Institute, Toronto, Canada  
+ Conference on quantum information and quantunm control (CQIQC VIII), Fields Institute, Toronto, Canada  
  _Random coding for sharing bosonic quantum secrets_
 
 * 11/2018 Contributed talk  
@@ -17,7 +20,7 @@ redirect_from:
 
 
 * 11/2018 Contributed talk  
- Journées d'Informatique Quantique, Laboratoire Lorrain de rechèrche en informatique et ses applications (JIQ 2018J), Nancy, France  
+ Journées d'Informatique Quantique, Laboratoire Lorrain de rechèrche en informatique et ses applications (JIQ 2018), Nancy, France  
  Quantum secret sharing using squeezing and almost any passive interferometer_
 
 * 09/2018  Contributed talk  

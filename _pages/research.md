@@ -7,7 +7,7 @@ redirect_from:
   - /research
 ---
 
-My past research has focussed on bridging theory and experiments towards the realization of **continuous-variable** (CV) quantum information processing (QIP)) tasks. The phrase CV refers to the use of systems described by **infinite-dimensional Hilbert spaces**, most commonly consisting of collections of harmonic oscillators (sometimes called qumodes). 
+My past research has focussed on bridging theory and experiments towards the realization of **continuous-variable** (CV) quantum information processing (QIP) tasks. The phrase CV refers to the use of systems described by **infinite-dimensional Hilbert spaces**, most commonly consisting of collections of harmonic oscillators (sometimes called qumodes). 
 Specifically I have worked on protocols that may be implemented with **multi-mode light**. This was largely inspired by the experimental setup built in the multi-mode quantum optics group at Kastler Brossel Laboratory in Paris where I completed my PhD. This setup can be used to produce squeezed states of light from optical frequency combs and nonlinear optical media. 
 Such states can further be made **non-Gaussian** (which is essential for continuous-variable) through mode-selective photon subtraction.
 These features are also available in a variety of other systems studied for CV-QIP. My past work can be loosely divided in three main branches: Engineering multi-mode squeezed states, including Non-Gaussian operations, and Quantum information protocols with realistic technology. These are detailed below.
