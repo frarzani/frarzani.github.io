@@ -23,8 +23,20 @@ I have worked on characterizing the class of states that can be achieved and on 
 
 ### Related articles
 
+* _Bloch-Messiah reduction for twin-beams of light._  
+ D. B. Horoshko, L. La Volpe, **F. Arzani**, N. Treps, C. Fabre, M. I. Kolobov.  
+ [Physical Review A 100 (1), 013837(2019)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.013837). [arXiv:1903.06578](https://arxiv.org/abs/1903.06578)
+ 
 
+* _Reconfigurable optical implementation of quantum complex networks._   
+ J. Nokkala, **F. Arzani**, F. Galve, R. Zambrini, S. Maniscalco, J. Piilo, N. Treps, V. Parigi.  
+ [New Journal of Physics 20 (5), 053024 (2018)](http://iopscience.iop.org/article/10.1088/1367-2630/aabc77/meta). [arXiv:1708.08726](https://arxiv.org/abs/1708.08726) 
 
+* _Versatile engineering of multimode squeezed states by optimizing the pump spectral profile in spontaneous parametric down-conversion._   
+ **F. Arzani**, C. Fabre, N. Treps.   
+ [Physical Review A 97 (3), 033808 (2018)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.97.033808).  [arXiv:1709.10055](https://arxiv.org/abs/1709.10055)
+ 
+ 
 ## Non-Gaussian operations
 
 Despite their usefulness, squeezed states have some limitations. Namely, they belong to the realm of so-called **Gaussian resources**. It is known that such resources alone ***cannot speed up computations** with respect to ordinary classical computers. Moreover, Gaussian states cannot 
@@ -33,6 +45,19 @@ I have worked on making use of these operations to encode and process informatio
 
 ### Related articles
 
+* _High-dimensional quantum encoding via photon-subtracted squeezed states._  
+ **F. Arzani**,  A. Ferraro, V. Parigi  
+ [Physical Review A 99 (2), 022342 (2019)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.99.022342). [arXiv:1811.09263](https://arxiv.org/abs/1811.09263)
+
+* _Violating Bell inequalities with entangled optical frequency combs and multi-pixel homodyne detection._  
+ W. N. Plick, **F. Arzani**, N. Treps, E. Diamanti, D. Markham  
+ [Physical Review A 98 (6), 062101 (2018)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.98.062101). [arXiv:1805.06059](https://arxiv.org/abs/1805.06059)
+ 
+* _Polynomial approximation of non-Gaussian unitaries by counting one photon at a time._  
+ **F. Arzani**, N. Treps, G. Ferrini  
+ [Physical Review A 95 (5), 052352 (2017)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.95.052352). [arXiv:1703.06693](https://arxiv.org/abs/1703.06693)
+ 
+ 
 ## Quantum information protocols
 
 Among the motivations for studying quantum systems, and also one of the of the reasons why they received much attention in the past decades, is the promise they hold for dramatically improving the performance of communications and computing. 
@@ -41,7 +66,22 @@ Some of my previous work was directed to **devising protocols that may be realiz
 
 ### Related articles
 
+* _Random coding for sharing bosonic quantum secrets._  
+ **F. Arzani**,  G. Ferrini, F. Grosshans, D. Markham  
+ [Physical Review A 100 (2), 022303 (2019).](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.022303). [arXiv:1808.06870](https://arxiv.org/abs/1808.06870})
 
+* _Multimode entanglement in reconfigurable graph states using optical frequency combs._  
+ Y. Cai, J. Roslund, G. Ferrini, **F. Arzani**, X. Xu, C. Fabre, N. Treps.  
+[Nature Communications 8, 15645 (2017)](https://www.nature.com/articles/ncomms15645). [arXiv:1605.02303](https://arxiv.org/abs/1605.02303)
+
+* _A direct approach to Gaussian measurement based quantum computation._  
+ G. Ferrini, J. Roslund, **F. Arzani**, C. Fabre, N. Treps.  
+ [Physical Review A 94 (6), 062332 (2016)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.94.062332). [arXiv:1605.03350](https://arxiv.org/abs/1605.03350)
+ 
+ * _Optimization of networks for measurement-based quantum computation._   
+ G. Ferrini, J. Roslund, **F. Arzani**, Y. Cai, C. Fabre, N. Treps.     
+ [Physical Review A 91 (3), 032314 (2015)](http://journals.aps.org/pra/abstract/10.1103/PhysRevA.91.032314). [arXiv:1407.5318](https://arxiv.org/abs/1407.5318)
+ 
 
 ## Bosonic error correction and fault tolerance
 
