@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here]() to download as pdf.
+Click [here](/files/CV_ArzaniF.pdf) to download as pdf.
