@@ -21,7 +21,7 @@ redirect_from:
 
 * 11/2018 Contributed talk  
  Journées d'Informatique Quantique, Laboratoire Lorrain de rechèrche en informatique et ses applications (JIQ 2018), Nancy, France  
- Quantum secret sharing using squeezing and almost any passive interferometer_[slides](/files/talks/Arzani_JIQ.pdf)
+ _Quantum secret sharing using squeezing and almost any passive interferometer_[slides](/files/talks/Arzani_JIQ.pdf)
 
 * 09/2018  Contributed talk  
  Quantum technology international conference (QuTech 2018), 1st edition, Kastler Brossel laboratory, Paris, France  
