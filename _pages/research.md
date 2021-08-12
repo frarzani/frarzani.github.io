@@ -95,3 +95,9 @@ To overcome this problem some form of **error correction must be used**: instead
 Such interactions are modeled by a _noise channel_ that depends on the environment and the embedding is called _error correcting code_. Bosonic codes are ways to embed finite systems (such as _qubits_) into infinite dimensional ones. 
 In particular, I am interested in so-called Gottesman-Kitaev-Preskill codes, named after their inventors, and their use in **fault-tolerant quantum computation** schemes. 
 This refers to the physically realistic scenario where not only the state itself, but **any component of a device** (logic gates, measurements) **can be faulty**, which poses additional challenges to the correct completion of QIP tasks. 
+
+### Related articles
+
+* _Harmonizing continuous noise to build a modular photonic quantum computer._  
+ **F. Arzani**  
+ [Quantum Views 5, 51 (2021)](https://quantum-journal.org/views/qv-2021-03-29-51/).

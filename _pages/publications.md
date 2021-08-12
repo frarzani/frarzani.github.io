@@ -64,6 +64,10 @@ You can also find my articles on [arxiv.org](https://arxiv.org/search/?query=fra
 ## Other
 
 
+* _Harmonizing continuous noise to build a modular photonic quantum computer._  
+ **F. Arzani**  
+ [Quantum Views 5, 51 (2021)](https://quantum-journal.org/views/qv-2021-03-29-51/).
+
 * _Measurement based quantum information with optical frequency combs._  
  **F. Arzani**  
  [PhD Thesis](https://tel.archives-ouvertes.fr/tel-01876070), Paris Sciences Lettres and École Normale Supérieure de Paris (2018)
