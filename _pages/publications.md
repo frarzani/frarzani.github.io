@@ -9,9 +9,14 @@ You can also find my articles on [arxiv.org](https://arxiv.org/search/?query=fra
 
 ## Journal articles
 
+* _Gottesman-Kitaev-Preskill codes: A lattice perspective._   
+J. Conrad,  J. Eisert, **F. Arzani**   
+ [Quantum 6, 648 (2022)](https://quantum-journal.org/papers/q-2022-02-10-648/). [arXiv:2109.14645](https://arxiv.org/abs/2109.14645)
+
+
 * _Random coding for sharing bosonic quantum secrets._  
 **F. Arzani**,  G. Ferrini, F. Grosshans, D. Markham  
- [Physical Review A 100 (2), 022303 (2019).](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.022303). [arXiv:1808.06870](https://arxiv.org/abs/1808.06870})
+ [Physical Review A 100 (2), 022303 (2019)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.022303). [arXiv:1808.06870](https://arxiv.org/abs/1808.06870)
 
 
 * _Bloch-Messiah reduction for twin-beams of light._  

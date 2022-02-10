@@ -6,9 +6,22 @@ author_profile: true
 redirect_from:
   - /talks
 ---
+* 09/2021 Invited talk  
+ Xanadu Quantum Technologies, Toronto ON, Canada  
+ _Gottesman-Kitaev-Preskill bosonic error correcting codes: a lattice perspective_ [slides pdf](/files/talks/Arzani_Xanadu_lattices.pdf)
+
+ * 09/2021 Invited talk  
+ Télécom Paris - Institut Polytechnique de Paris, Palaiseau, France  
+ _Continuous-variable quantum information, multi-mode quantum optics and bosonic error correcting codes_ [slides pdf](/files/talks/Arzani_IPP_talk_final.pdf)
+
+ * 09/2021 Contributed talk  
+ Virtual DPG-Meeting of the Atomic, Molecular, Plasma Physics and Quantum Optics Section 
+(SAMOP21)   
+ _Gottesman-Kitaev-Preskill bosonic error correcting codes: a lattice perspective_ [slides pdf](/files/talks/Arzani_DPG_2021.pdf)
+
 * 11/2019 Poster presentation  
  GDR Quantum Information 2019, 10th colloquium of the CNRS research network on Quantum information, foundations and applications, Télécom ParisTech, Paris, France   
- _Random coding for sharing bosonic quantum secrets_ [poster pdf](/files/talks/SS_poster_GDR2019.pdf)
+ _Random coding for sharing bosonic quantum secrets_ [poster pdf](/files/talks/Arzani_IPP_talk_final.pdf)
  
 * 08/2019 Contributed talk  
  Conference on quantum information and quantum control (CQIQC VIII), Fields Institute, Toronto, Canada  

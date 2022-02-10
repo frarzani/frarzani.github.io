@@ -18,7 +18,24 @@ Such states can further be made **non-Gaussian** (which is essential for continu
 These features are also available in a variety of other systems studied for CV-QIP. My contributions can be loosely divided in three main branches: Engineering multi-mode squeezed states, including Non-Gaussian operations, and Quantum information protocols with realistic technology. These are detailed below.
 
 
+## Bosonic error correction and fault tolerance
 
+**Quantum systems are very shy**: as soon as someone observes them, they stop displaying their most peculiar features. The observer need not be a sentient being, any uncontrolled interaction with their sorroundings can corrupt the state of quantum systems. This is especially bad if the state was supposed to encode some information to transmit or process, in which case uncontrolled interactions may result in errors.
+To overcome this problem some form of **error correction must be used**: instead of being directly printed onto some quantum system, information needs to be _embedded_ into some larger space in such a way that it enjoys a certain screening from the typical interactions that may occur with the environment.
+Such interactions are modeled by a _noise channel_ that depends on the environment and the embedding is called _error correcting code_. Bosonic codes are ways to embed finite systems (such as _qubits_) into infinite dimensional ones. 
+In particular, I am interested in so-called Gottesman-Kitaev-Preskill codes, named after their inventors, and their use in **fault-tolerant quantum computation** schemes. 
+This refers to the physically realistic scenario where not only the state itself, but **any component of a device** (logic gates, measurements) **can be faulty**, which poses additional challenges to the correct completion of QIP tasks. 
+
+### Related articles
+
+* _Gottesman-Kitaev-Preskill codes: A lattice perspective._  
+J. Conrad,  J. Eisert, **F. Arzani**
+ [Quantum 6, 648 (2022)](https://quantum-journal.org/papers/q-2022-02-10-648/). [arXiv:2109.14645](https://arxiv.org/abs/2109.14645)
+
+* _Harmonizing continuous noise to build a modular photonic quantum computer._  
+ **F. Arzani**  
+ [Quantum Views 5, 51 (2021)](https://quantum-journal.org/views/qv-2021-03-29-51/).
+ 
 
 ## Engineering multi-mode squeezed states
 
@@ -88,16 +105,4 @@ Some of my previous work was directed to **devising protocols that may be realiz
  [Physical Review A 91 (3), 032314 (2015)](http://journals.aps.org/pra/abstract/10.1103/PhysRevA.91.032314). [arXiv:1407.5318](https://arxiv.org/abs/1407.5318)
  
 
-## Bosonic error correction and fault tolerance
 
-**Quantum systems are very shy**: as soon as someone observes them, they stop displaying their most peculiar features. The observer need not be a sentient being, any uncontrolled interaction with their sorroundings can corrupt the state of quantum systems. This is especially bad if the state was supposed to encode some information to transmit or process, in which case uncontrolled interactions may result in errors.
-To overcome this problem some form of **error correction must be used**: instead of being directly printed onto some quantum system, information needs to be _embedded_ into some larger space in such a way that it enjoys a certain screening from the typical interactions that may occur with the environment.
-Such interactions are modeled by a _noise channel_ that depends on the environment and the embedding is called _error correcting code_. Bosonic codes are ways to embed finite systems (such as _qubits_) into infinite dimensional ones. 
-In particular, I am interested in so-called Gottesman-Kitaev-Preskill codes, named after their inventors, and their use in **fault-tolerant quantum computation** schemes. 
-This refers to the physically realistic scenario where not only the state itself, but **any component of a device** (logic gates, measurements) **can be faulty**, which poses additional challenges to the correct completion of QIP tasks. 
-
-### Related articles
-
-* _Harmonizing continuous noise to build a modular photonic quantum computer._  
- **F. Arzani**  
- [Quantum Views 5, 51 (2021)](https://quantum-journal.org/views/qv-2021-03-29-51/).
