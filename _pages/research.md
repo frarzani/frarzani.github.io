@@ -29,13 +29,13 @@ This refers to the physically realistic scenario where not only the state itself
 ### Related articles
 
 * _Gottesman-Kitaev-Preskill codes: A lattice perspective._  
-J. Conrad,  J. Eisert, **F. Arzani**
+J. Conrad,  J. Eisert, **F. Arzani**  
  [Quantum 6, 648 (2022)](https://quantum-journal.org/papers/q-2022-02-10-648/). [arXiv:2109.14645](https://arxiv.org/abs/2109.14645)
 
 * _Harmonizing continuous noise to build a modular photonic quantum computer._  
  **F. Arzani**  
  [Quantum Views 5, 51 (2021)](https://quantum-journal.org/views/qv-2021-03-29-51/).
- 
+
 
 ## Engineering multi-mode squeezed states
 
