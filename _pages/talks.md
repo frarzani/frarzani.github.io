@@ -6,6 +6,11 @@ author_profile: true
 redirect_from:
   - /talks
 ---
+
+* 09/2022 Contributed talk  
+ Conference on quantum information and quantum control (CQIQC IX), Fields Institute, Toronto, Canada  
+ _Gottesman-Kitaev-Preskill bosonic error correcting codes: a lattice perspective_ [slides](/files/talks/Arzani_CQIQC2022.pdf) [video](http://www.fields.utoronto.ca/talks/Gottesman-Kitaev-Preskill-Bosonic-Error-Correcting-Codes-Lattice-Perspective)
+
 * 09/2021 Invited talk  
  Xanadu Quantum Technologies, Toronto ON, Canada  
  _Gottesman-Kitaev-Preskill bosonic error correcting codes: a lattice perspective_ [slides pdf](/files/talks/Arzani_Xanadu_lattices.pdf)

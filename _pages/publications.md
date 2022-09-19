@@ -7,7 +7,16 @@ author_profile: true
 
 You can also find my articles on [arxiv.org](https://arxiv.org/search/?query=francesco+arzani&searchtype=all&source=header) and [my Google Scholar profile](https://scholar.google.com/citations?user=xRDb0O8AAAAJ&hl=en).
 
+## Pre-prints
+
+* _Exploiting symmetry in variational quantum machine learning._  
+ J. J. Meyer, M. Mularski, E. Gil-Fuster, A. A. Mele, **F. Arzani**, A. Wilms, J. Eisert   
+ [arxiv:2205.06217](https://arxiv.org/abs/2205.06217)
+
+
+
 ## Journal articles
+
 
 * _Gottesman-Kitaev-Preskill codes: A lattice perspective._    
 J. Conrad,  J. Eisert, **F. Arzani**      

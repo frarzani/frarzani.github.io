@@ -68,7 +68,7 @@ I have worked on making use of these operations to encode and process informatio
 ### Related articles
 
 * _High-dimensional quantum encoding via photon-subtracted squeezed states._  
- **F. Arzani**,  A. Ferraro, V. Parigi  
+**F. Arzani**,  A. Ferraro, V. Parigi  
  [Physical Review A 99 (2), 022342 (2019)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.99.022342). [arXiv:1811.09263](https://arxiv.org/abs/1811.09263)
 
 * _Violating Bell inequalities with entangled optical frequency combs and multi-pixel homodyne detection._  
@@ -88,6 +88,11 @@ Some of my previous work was directed to **devising protocols that may be realiz
 
 ### Related articles
 
+* _Exploiting symmetry in variational quantum machine learning._  
+ J. J. Meyer, M. Mularski, E. Gil-Fuster, A. A. Mele, **F. Arzani**, A. Wilms, J. Eisert   
+ [arxiv:2205.06217](https://arxiv.org/abs/2205.06217)  
+  
+  
 * _Random coding for sharing bosonic quantum secrets._  
  **F. Arzani**,  G. Ferrini, F. Grosshans, D. Markham  
  [Physical Review A 100 (2), 022303 (2019).](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.022303). [arXiv:1808.06870](https://arxiv.org/abs/1808.06870})
