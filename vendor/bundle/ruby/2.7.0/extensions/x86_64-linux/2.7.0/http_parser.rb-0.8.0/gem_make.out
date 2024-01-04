@@ -1,0 +1,19 @@
+current directory: /home/frarzani/Dropbox/website/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/home/frarzani/.rbenv/versions/2.7.6/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/frarzani/Dropbox/website/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20240104-12552-1yd03yi sitelibdir\=./.gem.20240104-12552-1yd03yi clean
+
+current directory: /home/frarzani/Dropbox/website/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20240104-12552-1yd03yi sitelibdir\=./.gem.20240104-12552-1yd03yi
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /home/frarzani/Dropbox/website/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20240104-12552-1yd03yi sitelibdir\=./.gem.20240104-12552-1yd03yi install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20240104-12552-1yd03yi
+
+current directory: /home/frarzani/Dropbox/website/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20240104-12552-1yd03yi sitelibdir\=./.gem.20240104-12552-1yd03yi clean
