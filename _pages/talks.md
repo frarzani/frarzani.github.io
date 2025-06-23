@@ -7,6 +7,29 @@ redirect_from:
   - /talks
 ---
 
+* 05/2025 Guest seminar (online)
+ QUEST Lab, North Carolina State University, Raleigh (NC), USA  
+ _Can effective descriptions of bosonic systems be considered complete?_ [slides](/files/talks/CV universality_FA_NCSU_short.pdf)
+
+
+* 04/2025 Poster presentation  
+ Quantum Computing Theory In Practice, Freie Universität Berlin, Berlin, Germany 
+ _Can effective descriptions of bosonic systems be considered complete?_ [poster pdf](/files/talks/QCTIP_poster-FA-2025.pdf)
+
+
+* 10/2024 Contributed talk  
+ INRIA and ENS Paris-Saclay, Saclay, France  
+ _Bosonic quantum error correction meets lattice theory_
+
+* 07/2024 Tutorial talk
+ Mini workshop on Non-Gaussian Quantum Reservoir Computing
+ IFISC, Palma de Mallorca, Spain  
+ _Gaussian and non-Gaussian resources in quantum optics_ [slides](/files/talks/palma_GvsNG_short.pdf)
+
+* 02/2024 Guest seminar  
+ Wallenberg Centre for Quantum Technologies, Gothenburg, Sweden  
+ _Springs and crystals: Bosonic quantum error correction meets lattice theory_
+
 * 09/2022 Contributed talk  
  Conference on quantum information and quantum control (CQIQC IX), Fields Institute, Toronto, Canada  
  _Gottesman-Kitaev-Preskill bosonic error correcting codes: a lattice perspective_ [slides](/files/talks/Arzani_CQIQC2022.pdf) [video](http://www.fields.utoronto.ca/talks/Gottesman-Kitaev-Preskill-Bosonic-Error-Correcting-Codes-Lattice-Perspective)

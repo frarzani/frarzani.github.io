@@ -28,6 +28,10 @@ This refers to the physically realistic scenario where not only the state itself
 
 ### Related articles
 
+* _Towards fault-tolerant quantum computation with universal continuous-variable gates._  
+ S. Blair, **F. Arzani**, G. Ferrini, A. Ferraro   
+ [arxiv:2506.13643](https://arxiv.org/abs/2506.13643)
+
 * _Gottesman-Kitaev-Preskill codes: A lattice perspective._  
 J. Conrad,  J. Eisert, **F. Arzani**  
  [Quantum 6, 648 (2022)](https://quantum-journal.org/papers/q-2022-02-10-648/). [arXiv:2109.14645](https://arxiv.org/abs/2109.14645)
@@ -88,10 +92,13 @@ Some of my previous work was directed to **devising protocols that may be realiz
 
 ### Related articles
 
+* _Can effective descriptions of bosonic systems be considered complete?._  
+**F. Arzani**, R. I. Booth, U. Chabaud   
+ [arxiv:2501.13857](https://arxiv.org/abs/2501.13857)
+
 * _Exploiting symmetry in variational quantum machine learning._  
  J. J. Meyer, M. Mularski, E. Gil-Fuster, A. A. Mele, **F. Arzani**, A. Wilms, J. Eisert   
  [arxiv:2205.06217](https://arxiv.org/abs/2205.06217)  
-  
   
 * _Random coding for sharing bosonic quantum secrets._  
  **F. Arzani**,  G. Ferrini, F. Grosshans, D. Markham  

@@ -9,14 +9,19 @@ You can also find my articles on [arxiv.org](https://arxiv.org/search/?query=fra
 
 ## Pre-prints
 
-* _Exploiting symmetry in variational quantum machine learning._  
- J. J. Meyer, M. Mularski, E. Gil-Fuster, A. A. Mele, **F. Arzani**, A. Wilms, J. Eisert   
- [arxiv:2205.06217](https://arxiv.org/abs/2205.06217)
+* _Towards fault-tolerant quantum computation with universal continuous-variable gates._  
+ S. Blair, **F. Arzani**, G. Ferrini, A. Ferraro   
+ [arxiv:2506.13643](https://arxiv.org/abs/2506.13643)
 
-
+* _Can effective descriptions of bosonic systems be considered complete?._  
+**F. Arzani**, R. I. Booth, U. Chabaud   
+ [arxiv:2501.13857](https://arxiv.org/abs/2501.13857)
 
 ## Journal articles
 
+* _Exploiting symmetry in variational quantum machine learning._  
+ J. J. Meyer, M. Mularski, E. Gil-Fuster, A. A. Mele, **F. Arzani**, A. Wilms, J. Eisert   
+ [PRX Quantum 4 (2023)](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.010328). [arxiv:2205.06217](https://arxiv.org/abs/2205.06217)
 
 * _Gottesman-Kitaev-Preskill codes: A lattice perspective._    
 J. Conrad,  J. Eisert, **F. Arzani**      
