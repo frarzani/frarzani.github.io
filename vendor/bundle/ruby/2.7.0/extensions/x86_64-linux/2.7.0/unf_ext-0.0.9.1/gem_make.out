@@ -1,0 +1,19 @@
+current directory: /home/frarzani/Dropbox/website/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+/home/frarzani/.rbenv/versions/2.7.6/bin/ruby extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /home/frarzani/Dropbox/website/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240104-12552-1pwn1s1 sitelibdir\=./.gem.20240104-12552-1pwn1s1 clean
+
+current directory: /home/frarzani/Dropbox/website/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240104-12552-1pwn1s1 sitelibdir\=./.gem.20240104-12552-1pwn1s1
+compiling unf.cc
+linking shared-object unf_ext.so
+
+current directory: /home/frarzani/Dropbox/website/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240104-12552-1pwn1s1 sitelibdir\=./.gem.20240104-12552-1pwn1s1 install
+/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20240104-12552-1pwn1s1
+
+current directory: /home/frarzani/Dropbox/website/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240104-12552-1pwn1s1 sitelibdir\=./.gem.20240104-12552-1pwn1s1 clean

@@ -1,0 +1,18 @@
+current directory: /home/frarzani/Dropbox/website/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+/home/frarzani/.rbenv/versions/2.7.6/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/frarzani/Dropbox/website/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240104-12552-1x6wb5r sitelibdir\=./.gem.20240104-12552-1x6wb5r clean
+
+current directory: /home/frarzani/Dropbox/website/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240104-12552-1x6wb5r sitelibdir\=./.gem.20240104-12552-1x6wb5r
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/frarzani/Dropbox/website/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240104-12552-1x6wb5r sitelibdir\=./.gem.20240104-12552-1x6wb5r install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20240104-12552-1x6wb5r/racc
+
+current directory: /home/frarzani/Dropbox/website/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240104-12552-1x6wb5r sitelibdir\=./.gem.20240104-12552-1x6wb5r clean
