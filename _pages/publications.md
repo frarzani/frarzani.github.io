@@ -5,19 +5,27 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on [arxiv.org](https://arxiv.org/search/?query=francesco+arzani&searchtype=all&source=header) and [my Google Scholar profile](https://scholar.google.com/citations?user=xRDb0O8AAAAJ&hl=en).
+You can also find my articles on [arxiv.org](https://arxiv.org/search/?query=francesco+arzani&searchtype=all&source=header) and my [Google Scholar](https://scholar.google.com/citations?user=xRDb0O8AAAAJ&hl=en) profile.
 
 ## Pre-prints
+
+* _On the complex zeros of the wavefunction._  
+ S. Cerf, C. Wassner, J. Davis, **F. Arzani**, U. Chabaud  
+ [arxiv:2507.23468](https://arxiv.org/abs/2507.23468)
+
+* _Detecting quantum non-Gaussianity with a single quadrature._  
+ C. Wassner, J. Davis, S. Cerf, U. Chabaud, **F. Arzani**  
+ [arxiv:2507.23005](https://arxiv.org/abs/2507.23005)
 
 * _Towards fault-tolerant quantum computation with universal continuous-variable gates._  
  S. Blair, **F. Arzani**, G. Ferrini, A. Ferraro   
  [arxiv:2506.13643](https://arxiv.org/abs/2506.13643)
 
-* _Can effective descriptions of bosonic systems be considered complete?._  
-**F. Arzani**, R. I. Booth, U. Chabaud   
- [arxiv:2501.13857](https://arxiv.org/abs/2501.13857)
-
 ## Journal articles
+
+* Eeffective descriptions of bosonic systems can be considered complete._  
+**F. Arzani**, R. I. Booth, U. Chabaud   
+ [Nature Communications 16, 9744 (2025)](https://www.nature.com/articles/s41467-025-64872-3). [arxiv:2501.13857](https://arxiv.org/abs/2501.13857)
 
 * _Exploiting symmetry in variational quantum machine learning._  
  J. J. Meyer, M. Mularski, E. Gil-Fuster, A. A. Mele, **F. Arzani**, A. Wilms, J. Eisert   

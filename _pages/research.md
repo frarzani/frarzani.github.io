@@ -10,12 +10,12 @@ redirect_from:
 My research focusses on bridging theory and experiments towards the realization of **continuous-variable** (CV) quantum information processing (QIP) tasks.
 The phrase CV refers to the use of systems described by **infinite-dimensional Hilbert spaces**, most commonly consisting of collections of harmonic oscillators, such as **modes of the electromagnetic field** (and hence sometimes called qumodes). 
 
-My **current research interests** include universal computation with CV systems, bosonic error correcting codes and fault tolerance.
+My **current research interests** include universal computation with CV systems, bosonic error correcting codes and fault tolerance, and the characterisation of quantum non-Gaussianity.
 
 My **previous work** was largely inspired by the experimental setup built in the **multi-mode quantum optics** group at Kastler Brossel Laboratory in Paris where I completed my PhD. 
 This setup can be used to produce **squeezed states** of light from optical frequency combs and nonlinear optical media. 
-Such states can further be made **non-Gaussian** (which is essential for continuous-variable) through mode-selective photon subtraction.  
-These features are also available in a variety of other systems studied for CV-QIP. My contributions can be loosely divided in three main branches: Engineering multi-mode squeezed states, including Non-Gaussian operations, and Quantum information protocols with realistic technology. These are detailed below.
+Such states can further be made **non-Gaussian** (which is essential for continuous-variable quantum advantage) through mode-selective photon subtraction.  
+These features are also available in a variety of other systems studied for CV-QIP. My contributions can be loosely divided in four main branches: Bosonic error correction and fault tolerance, Continuous-variable quantum optics, Non-Gaussianity (from generation to certification), and Quantum information protocols. These are detailed below.
 
 
 ## Bosonic error correction and fault tolerance
@@ -32,6 +32,10 @@ This refers to the physically realistic scenario where not only the state itself
  S. Blair, **F. Arzani**, G. Ferrini, A. Ferraro   
  [arxiv:2506.13643](https://arxiv.org/abs/2506.13643)
 
+* Eeffective descriptions of bosonic systems can be considered complete._  
+**F. Arzani**, R. I. Booth, U. Chabaud   
+ [Nature Communications 16, 9744 (2025)](https://www.nature.com/articles/s41467-025-64872-3). [arxiv:2501.13857](https://arxiv.org/abs/2501.13857)
+
 * _Gottesman-Kitaev-Preskill codes: A lattice perspective._  
 J. Conrad,  J. Eisert, **F. Arzani**  
  [Quantum 6, 648 (2022)](https://quantum-journal.org/papers/q-2022-02-10-648/). [arXiv:2109.14645](https://arxiv.org/abs/2109.14645)
@@ -41,11 +45,11 @@ J. Conrad,  J. Eisert, **F. Arzani**
  [Quantum Views 5, 51 (2021)](https://quantum-journal.org/views/qv-2021-03-29-51/).
 
 
-## Engineering multi-mode squeezed states
+## Continuous-variable quantum optics
 
-Squeezed states are states of light displaying some genuinely quantum features. They constitute the **base of many CV-QIP prototols**, sucn as quantum teleportation as they can be used to deterministically produce entangled states. They are relatively **easy to produce in the laboratory** sending light (pump field) through a **nonlinear crystal**. 
-When the pump field is a frequency comb, containing many individual frequencies, the output state is a mulltimode entangled state across a broad spectrum. Changing the spectrum of the pump and chossing the detection system appropriately allows to modify the output state and use it for QIP. 
-I have worked on characterizing the class of states that can be achieved and on optimizing the setup to produce interesting states for QIP.
+Squeezed states are states of light displaying some genuinely quantum features. They constitute the **base of many CV-QIP protocols**, such as quantum teleportation, as they can be used to deterministically produce entangled states. They are relatively **easy to produce in the laboratory** by sending light (pump field) through a **nonlinear crystal**. 
+When the pump field is a frequency comb, containing many individual frequencies, the output state is a multimode entangled state across a broad spectrum. Changing the spectrum of the pump and choosing the detection system appropriately allows modifying the output state and using it for QIP. 
+I have worked on characterizing the class of states that can be achieved, on optimizing the setup to produce interesting states for QIP, and on the theoretical structure of multimode squeezed fields (Bloch-Messiah decomposition) and their use as reconfigurable quantum networks.
 
 ### Related articles
 
@@ -63,13 +67,21 @@ I have worked on characterizing the class of states that can be achieved and on 
  [Physical Review A 97 (3), 033808 (2018)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.97.033808).  [arXiv:1709.10055](https://arxiv.org/abs/1709.10055)
  
  
-## Non-Gaussian operations
+## Non-Gaussianity: from generation to certification
 
-Despite their usefulness, squeezed states have some limitations. Namely, they belong to the realm of so-called **Gaussian resources**. It is known that such resources alone ***cannot speed up computations** with respect to ordinary classical computers. Moreover, Gaussian states cannot 
-In order to obtain a quantum advantage for this kind of task **one need to include some non-Gaussian resource**. Single-photon operations, such as detecting a single photon or subtracting a single photon from a squeezed state, are among the easiest to realize on light beams. 
-I have worked on making use of these operations to encode and process information. 
+Despite their usefulness, squeezed states have some limitations. Namely, they belong to the realm of so-called **Gaussian resources**. It is known that such resources alone **cannot speed up computations** with respect to ordinary classical computers. 
+In order to obtain a quantum advantage **one needs to include some non-Gaussian resource**. Single-photon operations, such as detecting a single photon or subtracting a single photon from a squeezed state, are among the easiest to realize on light beams. 
+I have worked on making use of these operations to encode and process information. More recently, I have worked on **certifying** non-Gaussianity: proving that the zeros of the quantum wavefunction encode non-Gaussian features (extending Hudson's theorem), and showing that statistics from a single quadrature measurement can witness arbitrary degrees of non-Gaussianity.
 
 ### Related articles
+
+* _On the complex zeros of the wavefunction._  
+ S. Cerf, C. Wassner, J. Davis, **F. Arzani**, U. Chabaud  
+ [arxiv:2507.23468](https://arxiv.org/abs/2507.23468)
+
+* _Detecting quantum non-Gaussianity with a single quadrature._  
+ C. Wassner, J. Davis, S. Cerf, U. Chabaud, **F. Arzani**  
+ [arxiv:2507.23005](https://arxiv.org/abs/2507.23005)
 
 * _High-dimensional quantum encoding via photon-subtracted squeezed states._  
 **F. Arzani**,  A. Ferraro, V. Parigi  
@@ -92,13 +104,9 @@ Some of my previous work was directed to **devising protocols that may be realiz
 
 ### Related articles
 
-* _Can effective descriptions of bosonic systems be considered complete?._  
-**F. Arzani**, R. I. Booth, U. Chabaud   
- [arxiv:2501.13857](https://arxiv.org/abs/2501.13857)
-
 * _Exploiting symmetry in variational quantum machine learning._  
  J. J. Meyer, M. Mularski, E. Gil-Fuster, A. A. Mele, **F. Arzani**, A. Wilms, J. Eisert   
- [arxiv:2205.06217](https://arxiv.org/abs/2205.06217)  
+ [PRX Quantum 4, 010328 (2023)](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.010328). [arxiv:2205.06217](https://arxiv.org/abs/2205.06217)  
   
 * _Random coding for sharing bosonic quantum secrets._  
  **F. Arzani**,  G. Ferrini, F. Grosshans, D. Markham  

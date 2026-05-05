@@ -7,6 +7,16 @@ redirect_from:
   - /talks
 ---
 
+* 03/2026 Invited talk   
+  Paris center for quantum computing workshop ([PCQT](https://pcqt.fr/pcqt-2026-workshop/))
+ Paris, France  
+ _Continuous-Variable Quantum Computing and Error Correction_ [slides](/files/talks/Arzani_PCQT_26_short.pdf) 
+
+* 11/2025 Invited talk   
+  Byron Bay quantum workshop ([BBQ](https://sites.google.com/view/byron-bay-quantum-workshop/2025))
+ Byron Bay, New South Wales, Australia  
+ _GKP codes with generalized concatenation or none at all_ [slides](/files/talks/bbq_fa_short.pdf) [video](https://www.youtube.com/watch?v=wswo60BUQs8&list=PLSheqlfcWPbQV3Mbd4tlMQ7A_8VuKhfMP&index=2)
+
 * 05/2025 Guest seminar (online)  
  QUEST Lab, North Carolina State University, Raleigh (NC), USA  
  _Can effective descriptions of bosonic systems be considered complete?_ [slides](/files/talks/CV universality_FA_NCSU_short.pdf)
@@ -35,7 +45,7 @@ redirect_from:
  Conference on quantum information and quantum control (CQIQC IX), Fields Institute, Toronto, Canada  
  _Gottesman-Kitaev-Preskill bosonic error correcting codes: a lattice perspective_ [slides](/files/talks/Arzani_CQIQC2022.pdf) [video](http://www.fields.utoronto.ca/talks/Gottesman-Kitaev-Preskill-Bosonic-Error-Correcting-Codes-Lattice-Perspective)
 
-* 09/2021 Invited talk  
+* 09/2021 Guest seminar (online)  
  Xanadu Quantum Technologies, Toronto ON, Canada  
  _Gottesman-Kitaev-Preskill bosonic error correcting codes: a lattice perspective_ [slides pdf](/files/talks/Arzani_Xanadu_lattices.pdf)
 
@@ -89,7 +99,7 @@ redirect_from:
  23rd central european workshop on quantum optics (CEWQO 2016)), Orthodox Academy of Crete, Kolymbari, Crete, Greece  
  _Quantum Computing with Optical Frequency Combs_ [poster pdf](/files/talks/cewqo2016_poster_FA.pdf)
 
-* 11/2015 Controbuted talk  
+* 11/2015 Contributed talk  
  1st international conference for young quantum information scientists (YQIS 2015), Institut d'optique graduate school, Palaiseau, France  
  _Quantum computing with squeezing, homodyne and clicks_ [slides](/files/talks/YQIS.pdf)
 
