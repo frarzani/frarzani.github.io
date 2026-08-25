@@ -26,7 +26,11 @@ Such interactions are modeled by a _noise channel_ that depends on the environme
 In particular, I am interested in so-called Gottesman-Kitaev-Preskill codes, named after their inventors, and their use in **fault-tolerant quantum computation** schemes. 
 This refers to the physically realistic scenario where not only the state itself, but **any component of a device** (logic gates, measurements) **can be faulty**, which poses additional challenges to the correct completion of QIP tasks. 
 
-### Related articles
+### Related works
+
+* _Improved GKP magic states from error-corrected non-Gaussian quantum states._  
+ S. David, J. Davis, U. Chabaud, **F. Arzani**  
+ [arxiv:2607.07833](https://arxiv.org/abs/2607.07833)
 
 * _Towards fault-tolerant quantum computation with universal continuous-variable gates._  
  S. Blair, **F. Arzani**, G. Ferrini, A. Ferraro   
@@ -51,7 +55,7 @@ Squeezed states are states of light displaying some genuinely quantum features. 
 When the pump field is a frequency comb, containing many individual frequencies, the output state is a multimode entangled state across a broad spectrum. Changing the spectrum of the pump and choosing the detection system appropriately allows modifying the output state and using it for QIP. 
 I have worked on characterizing the class of states that can be achieved, on optimizing the setup to produce interesting states for QIP, and on the theoretical structure of multimode squeezed fields (Bloch-Messiah decomposition) and their use as reconfigurable quantum networks.
 
-### Related articles
+### Related works
 
 * _Bloch-Messiah reduction for twin-beams of light._  
  D. B. Horoshko, L. La Volpe, **F. Arzani**, N. Treps, C. Fabre, M. I. Kolobov.  
@@ -73,7 +77,15 @@ Despite their usefulness, squeezed states have some limitations. Namely, they be
 In order to obtain a quantum advantage **one needs to include some non-Gaussian resource**. Single-photon operations, such as detecting a single photon or subtracting a single photon from a squeezed state, are among the easiest to realize on light beams. 
 I have worked on making use of these operations to encode and process information. More recently, I have worked on **certifying** non-Gaussianity: proving that the zeros of the quantum wavefunction encode non-Gaussian features (extending Hudson's theorem), and showing that statistics from a single quadrature measurement can witness arbitrary degrees of non-Gaussianity.
 
-### Related articles
+### Related works
+
+* _Improved GKP magic states from error-corrected non-Gaussian quantum states._  
+ S. David, J. Davis, U. Chabaud, **F. Arzani**  
+ [arxiv:2607.07833](https://arxiv.org/abs/2607.07833)
+
+* _A hidden bottleneck in classical and quantum linear reservoir computing._  
+ J. Nokkala, F. Centrone, **F. Arzani**  
+ [arxiv:2605.29071](https://arxiv.org/abs/2605.29071)
 
 * _On the complex zeros of the wavefunction._  
  S. Cerf, C. Wassner, J. Davis, **F. Arzani**, U. Chabaud  
@@ -102,7 +114,11 @@ Among the motivations for studying quantum systems, and also one of the of the r
 Although possible in theory, most proposals for useful applications remain challenging to implement due to technological limitations. 
 Some of my previous work was directed to **devising protocols that may be realized with existing or near-term technology**. 
 
-### Related articles
+### Related works
+
+* _A hidden bottleneck in classical and quantum linear reservoir computing._  
+ J. Nokkala, F. Centrone, **F. Arzani**  
+ [arxiv:2605.29071](https://arxiv.org/abs/2605.29071)
 
 * _Exploiting symmetry in variational quantum machine learning._  
  J. J. Meyer, M. Mularski, E. Gil-Fuster, A. A. Mele, **F. Arzani**, A. Wilms, J. Eisert   

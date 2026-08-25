@@ -9,6 +9,14 @@ You can also find my articles on [arxiv.org](https://arxiv.org/search/?query=fra
 
 ## Pre-prints
 
+* _Improved GKP magic states from error-corrected non-Gaussian quantum states._  
+ S. David, J. Davis, U. Chabaud, **F. Arzani**  
+ [arxiv:2607.07833](https://arxiv.org/abs/2607.07833)
+
+* _A hidden bottleneck in classical and quantum linear reservoir computing._  
+ J. Nokkala, F. Centrone, **F. Arzani**  
+ [arxiv:2605.29071](https://arxiv.org/abs/2605.29071)
+
 * _On the complex zeros of the wavefunction._  
  S. Cerf, C. Wassner, J. Davis, **F. Arzani**, U. Chabaud  
  [arxiv:2507.23468](https://arxiv.org/abs/2507.23468)
