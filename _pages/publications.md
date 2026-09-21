@@ -5,9 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on [arxiv.org](https://arxiv.org/search/?query=francesco+arzani&searchtype=all&source=header) and my [Google Scholar](https://scholar.google.com/citations?user=xRDb0O8AAAAJ&hl=en) profile.
+You can also find my articles on [arxiv.org](https://arxiv.org/search/?query=francesco+arzani&searchtype=all&source=header) and my [Google Scholar](https://scholar.google.com/citations?user=xRDb0O8AAAAJ&hl=en) and [orcid](https://orcid.org/0000-0002-4439-6962) pages.
 
 ## Pre-prints
+
+* _Quantum low-density lattice codes._  
+ T. Hillmann, J. Eisert, **F. Arzani**  
+ [arxiv:2609.03021](https://arxiv.org/abs/2609.03021)
 
 * _Improved GKP magic states from error-corrected non-Gaussian quantum states._  
  S. David, J. Davis, U. Chabaud, **F. Arzani**  

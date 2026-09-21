@@ -7,6 +7,11 @@ redirect_from:
   - /talks
 ---
 
+* 09/2026 Contributed talk  
+  21th Central-European quantum information processing workshop ([ceqip](https://ceqip.eu/2026/))
+ Mikulov, Czech republic 
+ _Complex zeros of the wavefunction as theoretical and experimental signatures of non-Gaussianity_ [slides](/files/talks/ceqip26_arzani.pdf) 
+
 * 03/2026 Invited talk   
   Paris center for quantum computing workshop ([PCQT](https://pcqt.fr/pcqt-2026-workshop/))
  Paris, France  
