@@ -28,6 +28,10 @@ This refers to the physically realistic scenario where not only the state itself
 
 ### Related works
 
+* _Quantum low-density lattice codes._  
+ T. Hillmann, J. Eisert, **F. Arzani**  
+ [arxiv:2609.03021](https://arxiv.org/abs/2609.03021)
+
 * _Improved GKP magic states from error-corrected non-Gaussian quantum states._  
  S. David, J. Davis, U. Chabaud, **F. Arzani**  
  [arxiv:2607.07833](https://arxiv.org/abs/2607.07833)
